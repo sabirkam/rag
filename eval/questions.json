@@ -1,0 +1,23 @@
+[
+  {"id": "task_phone_cz", "type": "phone", "question": "Jaké je telefonní číslo O2 prodejny v OC Metropole Zličín?", "store_id": "734", "expected": [["257 210 978"]]},
+  {"id": "task_phone_en", "type": "phone", "question": "What is the phone number of the O2 store in OC Metropole Zličín?", "store_id": "734", "expected": [["257 210 978"]]},
+  {"id": "task_hours_cz", "type": "out_of_data", "question": "Jaká je otevírací doba O2 prodejny v OC Tesco, Hrádecká 1310, Sušice?", "store_id": null, "expected": [["nevím"]]},
+  {"id": "task_hours_en", "type": "out_of_data", "question": "What are the opening hours of the O2 store in OC Tesco, Hrádecká 1310, Sušice?", "store_id": null, "expected": [["nevím", "don't know", "do not know"]]},
+  {"id": "email_locative", "type": "email", "question": "Jaký je e-mail na prodejnu O2 na Zličíně?", "store_id": "734", "expected": [["Praha_Zlicin@o2.cz"]]},
+  {"id": "hours_street", "type": "hours", "question": "Kdy má otevřeno O2 na Národní třídě v Praze?", "store_id": "658", "expected": [["8:30"], ["19:00"]]},
+  {"id": "phone_colloquial", "type": "phone", "question": "Potřebuju zavolat do O2 prodejny v Rychnově nad Kněžnou, jaké mají číslo?", "store_id": "806", "expected": [["494 661 122"]]},
+  {"id": "phone_no_diacritics", "type": "phone", "question": "jaky je telefon na o2 v nc westfield chodov", "store_id": "718", "expected": [["220 921 743"]]},
+  {"id": "hours_sunday", "type": "hours", "question": "Má prodejna O2 v Šumperku otevřeno v neděli?", "store_id": "732", "expected": [["zavřen", "nemá otevřeno", "není otevřen"]]},
+  {"id": "email_en", "type": "email", "question": "What is the email address of the O2 store in OC Olympia Plzeň?", "store_id": "676", "expected": [["Plzen_Olympia@o2.cz"]]},
+  {"id": "note_landmark", "type": "phone", "question": "Jaký telefon má O2 prodejna u zastávky šaliny Zelný trh?", "store_id": "708", "expected": [["542 211 120"]]},
+  {"id": "hours_locative", "type": "hours", "question": "Jaká je otevírací doba O2 v Kolíně v Kauflandu?", "store_id": "686", "expected": [["8:00"], ["20:00"]]},
+  {"id": "phone_city_two_stores", "type": "phone", "question": "Telefon na O2 prodejnu v Kladně v OC Central", "store_id": "886", "expected": [["312 243 292"]]},
+  {"id": "phone_missing", "type": "phone", "question": "Jaké je telefonní číslo prodejny O2 v OC Novo Plaza?", "store_id": "914", "expected": [["neuveden", "není uveden", "nevím", "nemám"]]},
+  {"id": "hours_holiday", "type": "hours", "question": "Má O2 prodejna v Prostějově otevřeno 17. listopadu?", "store_id": "706", "expected": [["zavřen", "nemá otevřeno", "není otevřen"]]},
+  {"id": "hours_weekend", "type": "hours", "question": "Kdy má O2 na Václavském náměstí otevřeno o víkendu?", "store_id": "662", "expected": [["9:00"], ["17:00"]]},
+  {"id": "hours_tomorrow", "type": "hours", "question": "Jaká je otevírací doba O2 prodejny v OC Metropole Zličín zítra?", "store_id": "734", "expected": [["zítra"], ["9:00"], ["21:00"]]},
+  {"id": "email_colloquial", "type": "email", "question": "mail na o2 v ostrave v nove karoline?", "store_id": "852", "expected": [["Ostrava_Karolina@o2.cz"]]},
+  {"id": "email_locative_mall", "type": "email", "question": "Jaký je e-mail na O2 v Galerii Teplice?", "store_id": "826", "expected": [["Teplice_Galerie@o2.cz"]]},
+  {"id": "out_of_data_city", "type": "out_of_data", "question": "Jaké je telefonní číslo O2 prodejny v Paříži?", "store_id": null, "expected": [["nevím"]]},
+  {"id": "out_of_domain", "type": "out_of_data", "question": "Kolik stojí nejlevnější mobilní tarif O2?", "store_id": null, "expected": [["nevím"]]}
+]

@@ -1,0 +1,8 @@
+# CPU-only torch keeps the install small: pip install torch==2.15.0 --index-url https://download.pytorch.org/whl/cpu
+torch==2.15.0
+sentence-transformers==6.3.0
+rank-bm25==0.2.2
+openai==3.50.0
+numpy==2.4.6
+pytest==9.2.0
+ipykernel==7.4.0
